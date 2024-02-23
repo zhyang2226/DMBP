@@ -1,0 +1,16 @@
+d4rl.egg==info
+diffuser==0.0.1
+einops==0.6.1
+gym==0.13.0
+gym==0.26.2
+imageio==2.22.1
+loguru==0.6.0
+matplotlib==3.4.3
+mujoco_py==2.1.2.14
+numpy==1.21.5
+numpy==1.21.6
+numpy==1.23.4
+pandas==1.1.5
+sk_video==1.1.10
+torch==1.13.0.dev20221006
+tqdm==4.64.1
